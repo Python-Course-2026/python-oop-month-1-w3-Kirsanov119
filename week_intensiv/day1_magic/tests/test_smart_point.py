@@ -1,3 +1,5 @@
+
+
 import pytest
 from week_intensiv.day1_magic.tasks.smart_point import SmartPoint
 

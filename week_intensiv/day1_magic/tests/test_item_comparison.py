@@ -1,3 +1,5 @@
+
+
 import pytest
 
 from week_intensiv.day1_magic.tasks.item_comparison import Item

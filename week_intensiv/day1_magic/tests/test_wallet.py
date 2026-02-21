@@ -10,4 +10,4 @@ def test_wallet_add():
 
 def test_wallet_len():
     w = Wallet("Test", 123.99)
-    assert len(w) == 123, "len() должен возвращать только целую часть баланса"
+    assert len(w) == 123, ("len() должен возвращать только целую часть баланса")
